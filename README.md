@@ -64,7 +64,7 @@ My broader research interests include **multimodal learning, agentic AI, reliabl
 
 🌐 **Portfolio:** https://jayd972.github.io/Jay/  
 💼 **LinkedIn:** https://www.linkedin.com/in/jayd972  
-📚 **Google Scholar:** Add your Google Scholar URL  
+📚 **Google Scholar:** https://scholar.google.com/citations?user=GKqJYZ4AAAAJ&hl=en
 📧 **Email:** darjijay972@gmail.com
 
 > I am especially interested in building AI systems where model outputs can be evaluated against evidence, execution, or real world outcomes.
