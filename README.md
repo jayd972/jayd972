@@ -36,20 +36,6 @@ Research across medical imaging, physiological signals, wearable time series, an
 **ML Systems**  
 `FastAPI` `Docker` `MLflow` `OpenTelemetry` `SigNoz` `REST APIs` `AWS`
 
-## 🚀 Selected Projects
-
-### 🤖 LLM Agents for Hardware Design
-Building agents that generate, lint, simulate, and repair hardware code with restricted tool access. Developed automated evaluation using compilation, simulation, mutation testing, and MLflow regression gates.
-
-### ⚡ High Performance Transformer Inference
-Built a reproducible PyTorch benchmark across **6 model workloads** for latency, throughput, VRAM, OOM limits, and quality. Increased maximum context length from **6,784 to 8,064 tokens**, an **18.9% improvement**, on a 4 GB GPU while keeping accuracy within 2 points of baseline.
-
-### 🔎 Candidate Recommendation Engine
-Built an embedding based resume and job ranking system using SBERT, OpenAI and Gemini embeddings. Evaluated **5 embedding models across 200 plus resumes** and achieved **89% top 3 ranking accuracy**.
-
-### 📄 ChatPDF RAG
-Built an end to end document question answering system with PDF ingestion, chunking, embeddings, FAISS retrieval, and Amazon Bedrock inference.
-
 ## 📚 Research
 
 I have authored **3 peer reviewed publications with 90 plus citations** covering:
@@ -62,9 +48,10 @@ My broader research interests include **multimodal learning, agentic AI, reliabl
 
 ## 🤝 Let's Connect
 
+📧 **Email:** darjijay972@gmail.com   
 🌐 **Portfolio:** https://jayd972.github.io/Jay/  
 💼 **LinkedIn:** https://www.linkedin.com/in/jayd972  
-📚 **Google Scholar:** https://scholar.google.com/citations?user=GKqJYZ4AAAAJ&hl=en
-📧 **Email:** darjijay972@gmail.com
+📚 **Google Scholar:** https://scholar.google.com/citations?user=GKqJYZ4AAAAJ&hl=en 
 
-> I am especially interested in building AI systems where model outputs can be evaluated against evidence, execution, or real world outcomes.
+
+> I am especially interested in building AI systems where model outputs can be evaluated against evidence, execution, or real-world outcomes.
